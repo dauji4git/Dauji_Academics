@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Lifetime Is Too Short for Learning (Coming Soon) | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/a-lifetime-is-too-short-for-learning-coming-soon/</link>
+      <atom:link href="http://localhost:1313/tags/a-lifetime-is-too-short-for-learning-coming-soon/index.xml" rel="self" type="application/rss+xml" />
+    <description>A Lifetime Is Too Short for Learning (Coming Soon)</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>A Lifetime Is Too Short for Learning (Coming Soon)</title>
+      <link>http://localhost:1313/tags/a-lifetime-is-too-short-for-learning-coming-soon/</link>
+    </image>
+    
+    <item>
+      <title>Academic Services</title>
+      <link>http://localhost:1313/services/academic/</link>
+      <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/academic/</guid>
+      <description>&lt;!-- ## Heading
+
+### Details 
+
+description
+
+* Teaching 
+* stories
+* others
+
+## Heading 2
+
+### Details 2
+
+description 2
+
+* Teaching  2
+* stories 2
+* others 2 --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

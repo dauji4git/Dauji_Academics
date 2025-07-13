@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Dauji Saha
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Dauji Saha
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Dauji 
+last_name: Saha
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,62 +20,64 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Proprietor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Dauji Academics
+    #url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:your-editrdauji@yahoo.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+  #- icon: brands/x
+  #  url: https://twitter.com/GetResearchDev
+  #- icon: brands/instagram
+  #  url: https://www.instagram.com/
+  #- icon: brands/github
+  #  url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/dauji-saha-38092021
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=kl6_ECwAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-5766-3567
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Sustainability
+  - Water Resources
+  - Energy Policies
+  - Health Assessment
+  - Structural Engineering
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD (Civil Engineering)
+    institution: Indian Institute of Technology Bombay
+    date_start: 2010-07-09
+    date_end: 2016-03-16
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  # - area: MEng Artificial Intelligence
+  #   institution: Massachusetts Institute of Technology
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  #     Courses included:
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BE (Civil Engineering)
+    institution: Jadavpur University
+    date_start: 1994-07-01
+    date_end: 1998-07-31
     summary: |
       GPA: 3.4/4.0
       
@@ -144,10 +146,10 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Bengali
+    percent: 100
+  - name: Hindi
+    percent: 70
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -181,6 +183,26 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## About Us
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dauji Academics was established as a sole proprietorship firm in December 2024. The firm was established, and is managed by Dauji Saha (Ph.D.), after his voluntary retirement from Bhabha Atomic Research Centre & Homi Bhabha National Institute. The firm strives to provide quality services in diverse academic activities, research, and structural engineering. Further details are available on the 'Services' page. 
+
+## Vision
+
+To educate, collaborate, and innovate for excellence in academics, research, and engineering.  
+
+## Mission
+
+To provide inspired, and timely services for each assignment.  
+
+## A few words about me .....
+
+With an extensive experience in residential, industrial, and nuclear safety-related civil engineering projects, spanning over 27 years, I have taken voluntary retirement from service in November 2024. Details of my earlier employment are available on this website.
+
+During the last 15 years, I have broadened my field of operations into research and developmental works. I was fortunate to be involved in addressing several practical problems of civil and ocean engineering, in collaborative research activities. I have further enhanced my portfolio with individual research to meet the challenges of civil engineering, using statistical and machine learning approaches.
+
+I have retired from service, but not from work. I am retired, but I am not tired. I am therefore offering freelance support for a variety of services, and more details are available on the ‘Services’ page.
+
+Please reach out to collaborate.
+
+---

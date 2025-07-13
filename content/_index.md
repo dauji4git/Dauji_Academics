@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2025-07-13
 type: landing
 
 design:
@@ -16,8 +16,8 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
-        url: uploads/resume.pdf
+        text: Download Resume
+        url: uploads/20250713_Resume_Dauji.pdf
     design:
       css_class: dark
       background:
@@ -30,16 +30,18 @@ sections:
           size: cover
           position: center
           parallax: false
+
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My recent interests'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I have been exposed to varied research topics including structural engineering, ocean engineering, geotechnical engineering, concrete technology, health assessment, hydrometeorology, hydrogeology, uncertainty analysis, and probabilistic analysis. I have employed one or more of the techniques of numerical, empirical, and statistical analyses; and machine learning applications.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My recent research interests are in the domains of sustainability, water resources, energy policies, health assessment, and structural engineering.
         
-        Please reach out to collaborate 😃
+        Please reach out to collaborate.
+        
     design:
       columns: '1'
   - block: collection
@@ -52,56 +54,56 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+      columns: 3
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: ""
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     view: article-grid
+  #     columns: 1
+  # - block: collection
+  #   id: news
+  #   content:
+  #     title: Recent News
+  #     subtitle: ''
+  #     text: ''
+  #     # Page type to display. E.g. post, talk, publication...
+  #     page_type: post
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: date-title-summary
+  #     # Reduce spacing
+  #     spacing:
+  #       padding: [0, 0, 0, 0]
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
