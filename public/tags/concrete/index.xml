@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Concrete | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/tags/concrete/</link>
-      <atom:link href="http://localhost:1313/tags/concrete/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/tags/concrete/</link>
+      <atom:link href="https://example.com/tags/concrete/index.xml" rel="self" type="application/rss+xml" />
     <description>Concrete</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Concrete</title>
-      <link>http://localhost:1313/tags/concrete/</link>
+      <link>https://example.com/tags/concrete/</link>
     </image>
     
     <item>
       <title>Probabilistic acceptance criteria for strength of concrete produced using non-potable water for sustainable infrastructure</title>
-      <link>http://localhost:1313/publication/2024cbm/</link>
+      <link>https://example.com/publication/2024cbm/</link>
       <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2024cbm/</guid>
+      <guid>https://example.com/publication/2024cbm/</guid>
       <description>&lt;!-- 
 
 
@@ -55,9 +55,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Estimating Concrete Strength From Nondestructive Testing With Few Core Tests Considering Uncertainties</title>
-      <link>http://localhost:1313/publication/2022asce-asme/</link>
+      <link>https://example.com/publication/2022asce-asme/</link>
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2022asce-asme/</guid>
+      <guid>https://example.com/publication/2022asce-asme/</guid>
       <description>&lt;!-- 
 
 

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hydrochemistry | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/tags/hydrochemistry/</link>
-      <atom:link href="http://localhost:1313/tags/hydrochemistry/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/tags/hydrochemistry/</link>
+      <atom:link href="https://example.com/tags/hydrochemistry/index.xml" rel="self" type="application/rss+xml" />
     <description>Hydrochemistry</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Hydrochemistry</title>
-      <link>http://localhost:1313/tags/hydrochemistry/</link>
+      <link>https://example.com/tags/hydrochemistry/</link>
     </image>
     
     <item>
       <title>Groundwater salinization processes: pitfalls of inferences from Na&#43;/Cl2 versus Cl2 correlation plots</title>
-      <link>http://localhost:1313/publication/2020egah/</link>
+      <link>https://example.com/publication/2020egah/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2020egah/</guid>
+      <guid>https://example.com/publication/2020egah/</guid>
       <description>&lt;!-- 
 
 

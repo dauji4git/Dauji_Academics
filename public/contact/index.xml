@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact Us | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/contact/</link>
-      <atom:link href="http://localhost:1313/contact/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/contact/</link>
+      <atom:link href="https://example.com/contact/index.xml" rel="self" type="application/rss+xml" />
     <description>Contact Us</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Contact Us</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://example.com/contact/</link>
     </image>
     
     <item>
       <title>Contact Information</title>
-      <link>http://localhost:1313/contact/contact/</link>
+      <link>https://example.com/contact/contact/</link>
       <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/contact/</guid>
+      <guid>https://example.com/contact/contact/</guid>
       <description>&lt;h3 id=&#34;call&#34;&gt;Call:&lt;/h3&gt;
 &lt;p&gt;+91 85915 01643&lt;/p&gt;
 &lt;h3 id=&#34;whatsapp&#34;&gt;Whatsapp:&lt;/h3&gt;

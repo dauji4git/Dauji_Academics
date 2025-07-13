@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>External Exposure | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/tags/external-exposure/</link>
-      <atom:link href="http://localhost:1313/tags/external-exposure/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/tags/external-exposure/</link>
+      <atom:link href="https://example.com/tags/external-exposure/index.xml" rel="self" type="application/rss+xml" />
     <description>External Exposure</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>External Exposure</title>
-      <link>http://localhost:1313/tags/external-exposure/</link>
+      <link>https://example.com/tags/external-exposure/</link>
     </image>
     
     <item>
       <title>Durability Concerns for Different Clear Covers Provided to Reinforcement in Concrete Structures When Considering Different Chloride Exposure Conditions for External and Internal Faces of Members</title>
-      <link>http://localhost:1313/publication/2024asce/</link>
+      <link>https://example.com/publication/2024asce/</link>
       <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2024asce/</guid>
+      <guid>https://example.com/publication/2024asce/</guid>
       <description>&lt;!-- 
 
 

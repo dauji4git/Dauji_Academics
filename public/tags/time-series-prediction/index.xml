@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Time Series Prediction | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/tags/time-series-prediction/</link>
-      <atom:link href="http://localhost:1313/tags/time-series-prediction/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/tags/time-series-prediction/</link>
+      <atom:link href="https://example.com/tags/time-series-prediction/index.xml" rel="self" type="application/rss+xml" />
     <description>Time Series Prediction</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jun 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Time Series Prediction</title>
-      <link>http://localhost:1313/tags/time-series-prediction/</link>
+      <link>https://example.com/tags/time-series-prediction/</link>
     </image>
     
     <item>
       <title>Prediction of ocean currents with artificial neural networks</title>
-      <link>http://localhost:1313/publication/2015ish/</link>
+      <link>https://example.com/publication/2015ish/</link>
       <pubDate>Fri, 20 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2015ish/</guid>
+      <guid>https://example.com/publication/2015ish/</guid>
       <description>&lt;!-- 
 
 

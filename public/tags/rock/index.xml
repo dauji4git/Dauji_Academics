@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rock | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/tags/rock/</link>
-      <atom:link href="http://localhost:1313/tags/rock/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/tags/rock/</link>
+      <atom:link href="https://example.com/tags/rock/index.xml" rel="self" type="application/rss+xml" />
     <description>Rock</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Rock</title>
-      <link>http://localhost:1313/tags/rock/</link>
+      <link>https://example.com/tags/rock/</link>
     </image>
     
     <item>
       <title>Ground vibration attenuation relationship for underground blast: a case study</title>
-      <link>http://localhost:1313/publication/2019ioesaheli/</link>
+      <link>https://example.com/publication/2019ioesaheli/</link>
       <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2019ioesaheli/</guid>
+      <guid>https://example.com/publication/2019ioesaheli/</guid>
       <description>&lt;!-- 
 
 

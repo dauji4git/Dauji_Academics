@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Article-Journal | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/publication_types/article-journal/</link>
-      <atom:link href="http://localhost:1313/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/publication_types/article-journal/</link>
+      <atom:link href="https://example.com/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Article-Journal</title>
-      <link>http://localhost:1313/publication_types/article-journal/</link>
+      <link>https://example.com/publication_types/article-journal/</link>
     </image>
     
     <item>
       <title>Probabilistic acceptance criteria for strength of concrete produced using non-potable water for sustainable infrastructure</title>
-      <link>http://localhost:1313/publication/2024cbm/</link>
+      <link>https://example.com/publication/2024cbm/</link>
       <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2024cbm/</guid>
+      <guid>https://example.com/publication/2024cbm/</guid>
       <description>&lt;!-- 
 
 
@@ -55,9 +55,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Durability Concerns for Different Clear Covers Provided to Reinforcement in Concrete Structures When Considering Different Chloride Exposure Conditions for External and Internal Faces of Members</title>
-      <link>http://localhost:1313/publication/2024asce/</link>
+      <link>https://example.com/publication/2024asce/</link>
       <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2024asce/</guid>
+      <guid>https://example.com/publication/2024asce/</guid>
       <description>&lt;!-- 
 
 
@@ -96,9 +96,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Estimating Concrete Strength From Nondestructive Testing With Few Core Tests Considering Uncertainties</title>
-      <link>http://localhost:1313/publication/2022asce-asme/</link>
+      <link>https://example.com/publication/2022asce-asme/</link>
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2022asce-asme/</guid>
+      <guid>https://example.com/publication/2022asce-asme/</guid>
       <description>&lt;!-- 
 
 
@@ -137,9 +137,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Groundwater salinization processes: pitfalls of inferences from Na&#43;/Cl2 versus Cl2 correlation plots</title>
-      <link>http://localhost:1313/publication/2020egah/</link>
+      <link>https://example.com/publication/2020egah/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2020egah/</guid>
+      <guid>https://example.com/publication/2020egah/</guid>
       <description>&lt;!-- 
 
 
@@ -178,9 +178,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Ground vibration attenuation relationship for underground blast: a case study</title>
-      <link>http://localhost:1313/publication/2019ioesaheli/</link>
+      <link>https://example.com/publication/2019ioesaheli/</link>
       <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2019ioesaheli/</guid>
+      <guid>https://example.com/publication/2019ioesaheli/</guid>
       <description>&lt;!-- 
 
 
@@ -219,9 +219,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Prediction of ocean currents with artificial neural networks</title>
-      <link>http://localhost:1313/publication/2015ish/</link>
+      <link>https://example.com/publication/2015ish/</link>
       <pubDate>Fri, 20 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2015ish/</guid>
+      <guid>https://example.com/publication/2015ish/</guid>
       <description>&lt;!-- 
 
 
