@@ -143,13 +143,13 @@ education:
 #         percent: 80
 #         icon: camera
 
-# languages:
-#   - name: English
-#     percent: 100
-#   - name: Bengali
-#     percent: 100
-#   - name: Hindi
-#     percent: 70
+languages:
+  - name: English
+    percent: 100
+  - name: Bengali
+    percent: 100
+  - name: Hindi
+    percent: 70
 
 # # Awards.
 # #   Add/remove as many awards below as you like.
