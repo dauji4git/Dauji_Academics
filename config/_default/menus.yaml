@@ -9,13 +9,16 @@ main:
     weight: 10
   - name: Publications
     url: publication/
-    weight: 11
+    weight: 40
   - name: Services
     url: services/
     weight: 60
   - name: Contact Us
     url: contact/
     weight: 70
+  - name: Experience
+    url: experience/
+    weight: 20
  # - name: Other than work
  #   url: other-than-work/
  #  weight: 80    
