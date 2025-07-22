@@ -185,7 +185,7 @@ languages:
 
 ## About Us
 
-Dauji Academics was established as a sole proprietorship firm in December 2024. The firm was established, and is managed by Dauji Saha (Ph.D.), after his voluntary retirement from Bhabha Atomic Research Centre & Homi Bhabha National Institute. The firm strives to provide quality services in diverse academic activities, research, and structural engineering. Further details are available on the 'Services' page. 
+Dauji Academics was established as a sole proprietorship firm in December 2024. The firm was established, and is managed by Dauji Saha (Ph.D.), after his voluntary retirement from Bhabha Atomic Research Centre & Homi Bhabha National Institute. The firm strives to provide quality services in diverse academic activities, research, and structural engineering. Further details are available here [Services](https://dauji4git.github.io/Dauji_Academics/services/). 
 
 ## Vision
 
